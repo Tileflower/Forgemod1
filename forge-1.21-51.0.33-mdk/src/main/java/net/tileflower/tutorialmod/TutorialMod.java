@@ -15,6 +15,7 @@ import net.minecraftforge.fml.event.lifecycle.FMLClientSetupEvent;
 import net.minecraftforge.fml.event.lifecycle.FMLCommonSetupEvent;
 import net.minecraftforge.fml.javafmlmod.FMLJavaModLoadingContext;
 import net.tileflower.tutorialmod.block.ModBlocks;
+import net.tileflower.tutorialmod.item.ModCreativeModeTabs;
 import net.tileflower.tutorialmod.item.Moditems;
 import org.slf4j.Logger;
 
@@ -36,6 +37,7 @@ public class TutorialMod
         // Register ourselves for server and other game events we are interested in
         MinecraftForge.EVENT_BUS.register(this);
 
+        ModCreativeModeTabs.register(modEventBus); // register tabs, see modcreativemodetabs
 
         Moditems.register(modEventBus); // register items, see Moditems
         ModBlocks.register(modEventBus); // register blocks, see ModBlocks
