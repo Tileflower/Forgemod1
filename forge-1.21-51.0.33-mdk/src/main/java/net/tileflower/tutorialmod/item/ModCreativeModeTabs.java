@@ -20,6 +20,7 @@ public class ModCreativeModeTabs {
                     .displayItems((pParameters, pOutput) -> {
                         pOutput.accept(Moditems.ALEXANDRITE.get());
                         pOutput.accept(Moditems.RAW_ALEXANDRITE.get());
+                        pOutput.accept(Moditems.CHISEL.get());
 
 
                     })//icon item
