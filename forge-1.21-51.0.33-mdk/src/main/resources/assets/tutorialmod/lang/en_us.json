@@ -1,11 +1,19 @@
 {
   "item.tutorialmod.alexandrite": "Alexandrite",
+  "item.tutorialmod.kohlrabi": "Kohlrabi",
+  "item.tutorialmod.aurora_ashes": "Aurora Ashes",
   "item.tutorialmod.raw_alexandrite": "Raw Alexandrite",
   "item.tutorialmod.chisel": "Chisels",
   "block.tutorialmod.alexandrite_block": "Block of Alexandrite",
   "block.tutorialmod.raw_alexandrite_block": "Block of Raw Alexandrite",
   "block.tutorialmod.alexandrite_ore": "Alexandrite Ore",
   "block.tutorialmod.deepslate_alexandrite_ore": "Deepslate Alexandrite Ore",
+  "block.tutorialmod.magic_block": "Magic Block",
   "creativetab.tutorialmod.alexandrite_blocks": "Alexandrite Blocks",
-  "creativetab.tutorialmod.alexandrite_items": "Alexandrite Items"
+  "creativetab.tutorialmod.alexandrite_items": "Alexandrite Items",
+  "tooltip.tutorialmod.magic_block.tooltip": "mmmmm §9wizardry§r",
+  "tooltip.tutorialmod.chisel.shift_down": "haha idiot",
+  "tooltip.tutorialmod.chisel": "Press §eSHIFT§r for more info! :3",
+  "tooltip.tutorialmod.chisel.shift_down_l2": "hey new line",
+  "tooltip.tutorialmod.kohlrabi": "What the fuck is a kohlrabi"
 }

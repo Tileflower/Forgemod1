@@ -21,6 +21,8 @@ public class ModCreativeModeTabs {
                         pOutput.accept(Moditems.ALEXANDRITE.get());
                         pOutput.accept(Moditems.RAW_ALEXANDRITE.get());
                         pOutput.accept(Moditems.CHISEL.get());
+                        pOutput.accept(Moditems.KOHLRABI.get());
+                        pOutput.accept(Moditems.AURORA_ASHES.get());
 
 
                     })//icon item
@@ -35,6 +37,7 @@ public class ModCreativeModeTabs {
                         pOutput.accept(ModBlocks.RAW_ALEXANDRITE_BLOCK.get());
                         pOutput.accept(ModBlocks.ALEXANDRITE_ORE.get());
                         pOutput.accept(ModBlocks.DEEPSLATE_ALEXANDRITE_ORE.get());
+                        pOutput.accept(ModBlocks.MAGIC_BLOCK.get());
 
                     })//icon item
                     .build());
