@@ -35,10 +35,24 @@ public class ModCreativeModeTabs {
                     .displayItems((pParameters, pOutput) -> {
                         pOutput.accept(ModBlocks.ALEXANDRITE_BLOCK.get());
                         pOutput.accept(ModBlocks.RAW_ALEXANDRITE_BLOCK.get());
+
                         pOutput.accept(ModBlocks.ALEXANDRITE_ORE.get());
                         pOutput.accept(ModBlocks.DEEPSLATE_ALEXANDRITE_ORE.get());
+
                         pOutput.accept(ModBlocks.MAGIC_BLOCK.get());
 
+                        pOutput.accept(ModBlocks.ALEXANDRITE_BUTTON.get());
+                        pOutput.accept(ModBlocks.ALEXANDRITE_PRESSURE_PLATE.get());
+
+                        pOutput.accept(ModBlocks.ALEXANDRITE_STAIRS.get());
+                        pOutput.accept(ModBlocks.ALEXANDRITE_SLAB.get());
+
+                        pOutput.accept(ModBlocks.ALEXANDRITE_DOOR.get());
+                        pOutput.accept(ModBlocks.ALEXANDRITE_TRAPDOOR.get());
+
+                        pOutput.accept(ModBlocks.ALEXANDRITE_FENCE.get());
+                        pOutput.accept(ModBlocks.ALEXANDRITE_FENCE_GATE.get());
+                        pOutput.accept(ModBlocks.ALEXANDRITE_WALL.get());
                     })//icon item
                     .build());
 

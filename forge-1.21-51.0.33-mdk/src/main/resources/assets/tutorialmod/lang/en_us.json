@@ -15,5 +15,18 @@
   "tooltip.tutorialmod.chisel.shift_down": "haha idiot",
   "tooltip.tutorialmod.chisel": "Press §eSHIFT§r for more info! :3",
   "tooltip.tutorialmod.chisel.shift_down_l2": "hey new line",
-  "tooltip.tutorialmod.kohlrabi": "What the fuck is a kohlrabi"
+  "tooltip.tutorialmod.kohlrabi": "What the fuck is a kohlrabi",
+
+  "block.tutorialmod.alexandrite_stairs": "Alexandrite Stairs",
+  "block.tutorialmod.alexandrite_slab": "Alexandrite Slab",
+
+  "block.tutorialmod.alexandrite_button": "Alexandrite Button",
+  "block.tutorialmod.alexandrite_pressure_plate": "Alexandrite Pressure Plate",
+
+  "block.tutorialmod.alexandrite_fence": "Alexandrite Fence",
+  "block.tutorialmod.alexandrite_fence_gate": "Alexandrite Fence Gate",
+  "block.tutorialmod.alexandrite_wall": "Alexandrite Wall",
+
+  "block.tutorialmod.alexandrite_door": "Alexandrite Door",
+  "block.tutorialmod.alexandrite_trapdoor": "Alexandrite Trapdoor"
 }
